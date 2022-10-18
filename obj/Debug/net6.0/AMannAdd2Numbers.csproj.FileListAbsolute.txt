@@ -1,0 +1,15 @@
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/bin/Debug/net6.0/AMannAdd2Numbers
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/bin/Debug/net6.0/AMannAdd2Numbers.deps.json
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/bin/Debug/net6.0/AMannAdd2Numbers.runtimeconfig.json
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/bin/Debug/net6.0/AMannAdd2Numbers.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/bin/Debug/net6.0/AMannAdd2Numbers.pdb
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/AMannAdd2Numbers.csproj.AssemblyReference.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/AMannAdd2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/AMannAdd2Numbers.AssemblyInfoInputs.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/AMannAdd2Numbers.AssemblyInfo.cs
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/AMannAdd2Numbers.csproj.CoreCompileInputs.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/AMannAdd2Numbers.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/refint/AMannAdd2Numbers.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/AMannAdd2Numbers.pdb
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/AMannAdd2Numbers.genruntimeconfig.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/Debug/net6.0/ref/AMannAdd2Numbers.dll
