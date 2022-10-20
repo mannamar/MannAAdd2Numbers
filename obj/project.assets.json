@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/AMannAdd2Numbers.csproj",
+      "projectUniqueName": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAdd2Numbers/AMannAdd2Numbers.csproj",
       "projectName": "AMannAdd2Numbers",
-      "projectPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/AMannAdd2Numbers.csproj",
+      "projectPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAdd2Numbers/AMannAdd2Numbers.csproj",
       "packagesPath": "/Users/amardeepmann/.nuget/packages/",
-      "outputPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannAdd2Numbers/obj/",
+      "outputPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAdd2Numbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/amardeepmann/.nuget/NuGet/NuGet.Config"
