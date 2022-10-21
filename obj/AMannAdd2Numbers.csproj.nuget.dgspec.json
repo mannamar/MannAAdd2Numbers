@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAdd2Numbers/AMannAdd2Numbers.csproj": {}
+    "/Users/brandonle/Desktop/GitRepository/MannAAdd2Numbers/AMannAdd2Numbers.csproj": {}
   },
   "projects": {
-    "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAdd2Numbers/AMannAdd2Numbers.csproj": {
+    "/Users/brandonle/Desktop/GitRepository/MannAAdd2Numbers/AMannAdd2Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAdd2Numbers/AMannAdd2Numbers.csproj",
+        "projectUniqueName": "/Users/brandonle/Desktop/GitRepository/MannAAdd2Numbers/AMannAdd2Numbers.csproj",
         "projectName": "AMannAdd2Numbers",
-        "projectPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAdd2Numbers/AMannAdd2Numbers.csproj",
-        "packagesPath": "/Users/amardeepmann/.nuget/packages/",
-        "outputPath": "/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/MannAAdd2Numbers/obj/",
+        "projectPath": "/Users/brandonle/Desktop/GitRepository/MannAAdd2Numbers/AMannAdd2Numbers.csproj",
+        "packagesPath": "/Users/brandonle/.nuget/packages/",
+        "outputPath": "/Users/brandonle/Desktop/GitRepository/MannAAdd2Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/amardeepmann/.nuget/NuGet/NuGet.Config"
+          "/Users/brandonle/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
